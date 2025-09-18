@@ -1,3 +1,6 @@
+<img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
+
+
 # 👋 Hello there!
 💻 </>  
 Looking for a capable programmer to bring your ideas to life? You're in the right place!
