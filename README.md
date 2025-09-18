@@ -1,5 +1,6 @@
-<img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
-
+<p align="left">
+  <img width="500" src="https://github.com/user-attachments/assets/f5a0f154-dee7-4653-9451-caa52513573a" alt="logo" />
+</p>
 
 # 👋 Hello there!
 💻 </>  
